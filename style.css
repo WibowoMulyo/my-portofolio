@@ -1,0 +1,40 @@
+nav {
+    background-color: #71C9CE;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #CBF1F5;
+}
+
+#contact {
+    background-color: #CBF1F5;
+    padding: 5rem;
+    border-radius: 2rem ;
+}
+
+.mb-3 h5 {
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+#About {
+    background-color: #A6E3E9;
+}
+
+#Projects {
+    background-color: #CBF1F5;
+}
+
+#Contact {
+    background-color: #A6E3E9;
+}
+
+#footer {
+    background-color: #71C9CE;
+}
+
+section {
+    padding-top: 5rem;
+}
